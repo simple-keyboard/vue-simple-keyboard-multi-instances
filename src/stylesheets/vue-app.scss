@@ -1,0 +1,22 @@
+$app_width: 1920px;
+$app_height: 1080px;
+
+$fontRegular: 'Brandon';
+$fontBlack: 'BrandonBlack';
+$font1: 'BrandonMd';
+$font2: 'BrandonMd';
+
+$color_enabled: #650a3d;
+$color_disabled: grey;
+
+$border_top1: 2px solid #f2e6e6;
+
+// isi colors
+$isi_color1: #3b3b3b;
+$isi_color2: #8e1d58;
+
+$radius1: 10px;
+
+$shadow_color: #5b5c5f;
+$box_shadow1: 0px 10px 15px 0px rgba($color: $shadow_color, $alpha: 0.28);
+$box_shadow2: 0px 0px 25px 0px rgba($color: $shadow_color, $alpha: 0.28);
