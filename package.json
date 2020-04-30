@@ -17,7 +17,7 @@
 	"dependencies": {
 		"core-js": "^2.6.5",
 		"electron-dl": "^1.14.0",
-		"jquery": "^3.4.1",
+		"jquery": "^3.5.0",
 		"popper.js": "^1.16.0",
 		"simple-keyboard": "^2.27.10",
 		"swiper": "^5.2.0",
